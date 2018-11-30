@@ -1,2 +1,22 @@
 # Math_Model_2018
-十五届“华为杯”中国研究生数学建模-光传送网络建模与价值评估
+
+The 15th "Huawei Cup" Chinese Graduate Mathematical Modeling - Optical Transport Network Modeling and Value Evaluation
+
+### question
+
+The question of the contest topic B 
+
+### paper
+
+Final submitted paper
+
+### result2_code
+
+The solution of the question 2 
+
+#### Copyrights
+
+Jianjie Tan, Qinrun Yang, Guangxu Shan
+
+
+
